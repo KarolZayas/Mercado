@@ -1,1 +1,1 @@
-alert("Hola, mundo 1");
+alert("Hola, mundo 2");
